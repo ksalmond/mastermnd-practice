@@ -1,10 +1,8 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
-func_main() {
+func main() {
 	fmt.Println("Hello, playground!")
 }
 
